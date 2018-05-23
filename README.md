@@ -76,20 +76,11 @@ If they fail click on 'details' to find the error, fix them, or ask a dev for he
 
 If they pass, send a comment to ask reviewer to check your update.
 
+Check if resources look right in heroku (click 'view deployment')
+
 Wait for thumbs up from reviewer.
 
 Then 'squash and merge'.
-
-—
-
-
-Go through rest with Lucy.
-
-
-—
-Add notes to Confluence on full process (including opening projects in atom, using pull/fetch/github etc.)
-
-
 
 —- (old)
 Open project in IntelliJ
