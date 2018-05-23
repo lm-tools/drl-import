@@ -14,6 +14,7 @@ Update resourceIDs
 
 Open Terminal
 cd drl-import/
+
 $ node resourcegenerator.js > content.js
 
 —
@@ -73,6 +74,11 @@ Wait for tests to complete (could take 5 minutes).
 
 If they fail click on 'details' to find the error, fix them, or ask a dev for help.
 
+If they pass, send a comment to ask reviewer to check your update.
+
+Wait for thumbs up from reviewer.
+
+Then 'squash and merge'.
 
 —
 
@@ -84,16 +90,10 @@ Go through rest with Lucy.
 Add notes to Confluence on full process (including opening projects in atom, using pull/fetch/github etc.)
 
 
-Beautify
-Remove blank property in sector
 
-
-
-
-— (old)
+—- (old)
 Open project in IntelliJ
 cmd+alt+l
 
---
+-- (to do)
 fixing white space errors
-
