@@ -82,6 +82,10 @@ Wait for thumbs up from reviewer.
 
 Then 'squash and merge'.
 
+Then delete the branch.
+
+Leave comment to ask reviewer to push the DRL to staging and production.
+
 —- (old)
 Open project in IntelliJ
 cmd+alt+l
