@@ -1,0 +1,12 @@
+node_modules
+*csv
+*Archive
+.idea/
+*.iml
+dist/
+node_modules/
+logs/
+screenshots/
+
+npm-debug.log
+.DS_Store
