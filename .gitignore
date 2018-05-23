@@ -7,6 +7,6 @@ dist/
 node_modules/
 logs/
 screenshots/
-
+content.js
 npm-debug.log
 .DS_Store
