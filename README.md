@@ -2,6 +2,8 @@
 
 First time setup run 'npm install'
 
+Ensure `node_modules/.bin` is on your path
+
 ## Prepare CSV
 
 Update resourceIDs (check what the last resource id is in digital-resource-library/app/data/resources.js

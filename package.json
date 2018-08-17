@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csvtojson": "^1.1.9"
+    "csvtojson": "^1.1.9",
+    "npm-git-secrets": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^2.13.1",
